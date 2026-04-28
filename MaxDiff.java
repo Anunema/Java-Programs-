@@ -6,7 +6,7 @@ public class MaxDiff {
 
 	public static void  main(String[] args) {
 		
-		// TODO Auto-generated method st
+		// TODO Auto-generated method s
 		int ar [] = {23,67,1,6,97,21,7};
 		int result = FindDiff(ar);
 		System.out.print(result);
