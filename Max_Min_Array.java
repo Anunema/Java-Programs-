@@ -1,7 +1,7 @@
 package Java;
 
 public class Max_Min_Array {
-
+//
 	public static void main(String[] args) {
 		int ar[] = {6,2,3,4,3,78,5,799,9,1};
 		int min = ar[0];
