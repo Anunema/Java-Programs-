@@ -6,6 +6,9 @@ public class AnagramWithSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+
+		///TEST
 		
 		String text = "hello";
 		String text2 = "ollhe";
