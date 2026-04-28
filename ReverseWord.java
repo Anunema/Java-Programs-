@@ -4,7 +4,7 @@ package Java;
 public class ReverseWord {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method s
 		
 		String text = "hello iam anu";
 		String ar[] = text.split(" ");
