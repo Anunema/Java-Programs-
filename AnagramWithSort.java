@@ -8,8 +8,7 @@ public class AnagramWithSort {
 		// TODO Auto-generated method stub
 
 
-		///TEST
-		
+		///
 		String text = "hello";
 		String text2 = "ollhe";
 		
