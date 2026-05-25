@@ -1,11 +1,25 @@
----
-template: home.html
-title: Material for MkDocs
-social:
-  cards_layout_options:
-    title: Documentation that simply works
----
+# Welcome to Simple Java Programs
 
-Welcome to Material for MkDocs.
+This is a lightweight documentation site for testing TechDocs in Harness IDP.
 
-Welcome to Harness Techdocs
+## Overview
+
+This documentation covers basic Java programming concepts in a minimal format, perfect for:
+
+- Testing TechDocs rendering
+- Validating deep linking
+- Parent-child entity relationships
+- Quick load times
+
+## Quick Navigation
+
+- [Getting Started](getting-started/intro.md) - Start here
+- [Java Basics](basics/hello-world.md) - Core concepts
+- [Advanced Topics](advanced/oop.md) - OOP and more
+
+## Features
+
+✅ Fast loading  
+✅ Minimal structure (6 pages total)  
+✅ Material theme  
+✅ Search enabled  
